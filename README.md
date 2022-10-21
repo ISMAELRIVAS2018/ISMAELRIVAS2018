@@ -1,5 +1,5 @@
 <h1 align="center">Hello My Name Ismael Ivan Rivas</h1>
-<h3 align="center">Profesor de Matemáticas para el Tercer Ciclo de Educación Básica y Educación Secundaria. ! Mis habilidades incluyen ser creativa, proactiva, muy empática, respetuosa y responsable, además de liderazgo. Tengo mucha perseverancia y me adapto rápido. Siempre busco aprender cosas nuevas y dar lo mejor de mí. 👥 Me gusta trabajar en equipo, valorando a cada compañero y ayudándonos unos a otros. 💻Tengo conocimiento en HTML, CSS, GIT JavaScript, Diseño de Interfaz (UI) 📝Actualmente me estoy enfocando en desarrollar mis habilidades de Desarrollo WEB y hacer proyectos para ganar experiencia.</h3>
+<h3 align="center">Mathematics Teacher for the Third Cycle of Basic Education and Secondary Education. ! My skills include being creative, proactive, very empathetic, respectful and responsible, as well as leadership. I have a lot of perseverance and I adapt quickly. I always seek to learn new things and give my best. 👥 I like to work as a team, valuing each partner and helping each other. 💻I have knowledge in HTML, CSS, GIT JavaScript, Interface Design (UI) 📝I am currently focusing on developing my WEB Development skills and doing projects to gain experience.</h3>
 
 - 🔭 I’m currently working on **Internship in chivo wallet**
 
